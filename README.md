@@ -1,2 +1,2 @@
 # Aplicacion_Portatil_Surtido
-aplicacion portatil de tienda surtido
+Aplicacion Movil para tienda "El Surtidito"
